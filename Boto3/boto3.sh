@@ -11,5 +11,3 @@ sudo apt install python3-pip -y
 sudo apt install python3-boto3 -y
 
 python3 -c "import boto3; print(boto3.__version__)"
-
-
