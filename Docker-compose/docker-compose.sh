@@ -2,4 +2,4 @@
 
 sudo apt update
 
-sudo apt install docker-compose -y
+sudo apt install docker-compose-v2 -y
